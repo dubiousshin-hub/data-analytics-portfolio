@@ -1,0 +1,4 @@
+# Ignore the CSV (don't push it)
+*.csv
+*.zip
+All Lending Club loan data/
